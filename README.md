@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Nothing much right now
 - 📫 How to reach me: Just use GitHub people
 - 😄 Pronouns: She/Her or They/Them but never He/Him
-- ⚡ Fun fact: There seem to be a scare number of facts about me that are "fun"
+- ⚡ Fun fact: There seem to be a scarce number of facts about me that are "fun"
 
 <!---
 PurplePineapple404/PurplePineapple404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
