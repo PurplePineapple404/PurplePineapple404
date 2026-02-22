@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on: Nothing much right now
 - 📫 How to reach me: Just use GitHub people
-- 😄 Pronouns: She/Her or They/Them but never He/Him
+- 😄 Pronouns: Anything and everything
 - ⚡ Fun fact: There seem to be a scarce number of facts about me that are "fun"
 
 <!---
